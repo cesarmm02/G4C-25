@@ -192,3 +192,7 @@ body * {
       display: inline-block;
     }
   }
+#char{
+    width: 1000px
+    height: 500px
+}
